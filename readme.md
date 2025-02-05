@@ -32,7 +32,7 @@ Every task:
     writing commands until you stop server (`ctrl + c`). All other commands you 
     need to run in new command line window.
 - Make sure the code is clean. Run linters (`npm run lint`)
-- Follow [the simplified JS styleguide](https://mate-academy.github.io/style-guides/javascript-standard-modified)
+- Follow [the simplified JS styleguide](https://mate-academy.github.io/style-guides/javascript.html)
 - Follow [HTML, CSS styleguide](https://mate-academy.github.io/style-guides/htmlcss.html)
 - When your solution is complete `Deploy on gh-pages`
 
